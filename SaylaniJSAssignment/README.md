@@ -1,0 +1,1 @@
+it is a assignment of Basic Javascript of Saylani JS Crush Course
